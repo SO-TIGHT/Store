@@ -154,6 +154,11 @@ blockquote {
   background-color: #3b99d9;
 }
 
+#ecwid_categories {
+  float: right;
+  width: 340px;
+}
+
 .navigation-link {
   padding-top: 7px;
   padding-bottom: 7px;
@@ -177,8 +182,8 @@ blockquote {
 }
 
 .navigation-bar {
-  padding-top: 70px;
-  padding-bottom: 70px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #fff;
   text-transform: uppercase;
 }
@@ -1047,4 +1052,3 @@ html.w-mod-js *[data-ix="scale-on-scroll"] {
     padding-bottom: 40px;
   }
 }
-
